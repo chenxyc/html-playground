@@ -3,6 +3,17 @@ img {
     width: 150px
 }
 
+nav {
+    position: center
+}
+
+.header {
+    position: center;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+  }
 .footer {
     position: fixed;
     left: 0;
